@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Xingbo @ Here]]></title>
+  <link href="http://zhouxb.github.com/atom.xml" rel="self"/>
+  <link href="http://zhouxb.github.com/"/>
+  <updated>2012-04-27T17:44:35+08:00</updated>
+  <id>http://zhouxb.github.com/</id>
+  <author>
+    <name><![CDATA[xingbo.zhou]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一次要去沈阳啦]]></title>
+    <link href="http://zhouxb.github.com/blog/2012/04/27/di-%5B%3F%5D-ci-yao-qu-chen-yang-la/"/>
+    <updated>2012-04-27T15:39:00+08:00</updated>
+    <id>http://zhouxb.github.com/blog/2012/04/27/di-[?]-ci-yao-qu-chen-yang-la</id>
+    <content type="html"><![CDATA[<h2>第一次去沈阳</h2>
+
+<blockquote><p>其实沈阳这个地方对来我来说，并没有什么特别之处，也从来没有想过要去这个地方。</p>
+
+<p>但就是有些事，有些人牵绊着你，让你去过很多地方，而又让很多地方变得不同</p>
+
+<p>第一次使用自己搭建的Blog，还不知道效果如何，望一切都好&#8230;</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
